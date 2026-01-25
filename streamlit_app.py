@@ -50,7 +50,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- 3. ส่วนหัวข้อ ---
-st.markdown("<h1>💎 Ai<br><span style='font-size: 1.5rem; opacity: 0.7;'>ระบบวิเคราะห์หุ้นอัจฉริยะ</span></h1>", unsafe_allow_html=True)
+st.markdown("<h1>💎 Ai<br><span style='font-size: 1.5rem; opacity: 0.7;'>ระบบวิเคราะห์หุ้นอัจฉริยะ🐒</span></h1>", unsafe_allow_html=True)
 # ลบ st.write("") ออกเพื่อให้ชิดกับช่องค้นหาตาม CSS ที่ตั้งใหม่
 
 # --- Form ค้นหา ---
